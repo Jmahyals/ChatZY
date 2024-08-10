@@ -24,7 +24,7 @@ git clone https://github.com/Jmahyals/ChatZY/
 
 - Luego ve a la carpeta /chatZY
 ```
-cd chatZY
+cd ChatZY
 ```
 
 Para finalizar instala `Chalk` para los colores:
