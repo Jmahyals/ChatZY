@@ -1,15 +1,25 @@
 ## ChatZY 
 Es un mini-script para chatear desde la consola.
 
->[!IMPORTANT]
+>[!IWARNIG]
 >Es necesario instalar _Node.js_
 ```
-pkg install node.js
+pkg install nodejs
 ```
 Luego de instalar _Node.js_ hay que instalar _NMAP_ 
 ```
 pkg install nmap
 ```
+- **INSTALA GIT** si no lo tienes.
+  ```
+  pkg install git
+  ```
+  
+>[!IMPORTANT]
+>Clona en repositorio
+```
+git clone https://github.com/Jmahyals/ChatZY/
+
 - Luego ve a la carpeta /chatZY
 ```
 cd chatZY
