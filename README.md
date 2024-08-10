@@ -1,7 +1,7 @@
 ## ChatZY 
 Es un mini-script para chatear desde la consola.
 
->[!IWARNIG]
+>[!IWARNING]
 >Es necesario instalar _Node.js_
 ```
 pkg install nodejs
