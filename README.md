@@ -45,10 +45,3 @@ Y el otro dispositivo debe conectarse con:
 ```
 node chat client
 ```
-
-**GRACIAS POR LEER** 
-
-
-
-
-
