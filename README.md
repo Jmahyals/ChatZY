@@ -1,9 +1,8 @@
 ## ChatZY 
 **Es un mini-script para chatear desde la consola.**
 
-|<img src="image/uno.jpg" width="300">|
-|----------|----------|
-|<img src="image/dos.jpg" width="300">|
+<img src="image/uno.jpg" width="100">
+<img src="image/dos.jpg" width="100">
 
 
 >[!WARNING]
