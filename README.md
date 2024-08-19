@@ -1,6 +1,10 @@
 ## ChatZY 
 **Es un mini-script para chatear desde la consola.**
 
+|<img src="image/uno.jpg" width=300">|
+<img src="image/dos.jpg" width=300">|
+
+
 >[!WARNING]
 >Es necesario instalar _Node.js_
 ```
